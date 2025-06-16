@@ -42,7 +42,7 @@ How often we will get in touch on each channel, and what we will discuss there:
 | -------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | Ozgur    | 2pm-7pm    | 2pm-7pm    | 2pm-7pm    | 2pm-7pm    | 2pm-7pm    |            |            |
 | M.Elfadil| 2am-4pm    | 2am-4pm    | 2am-4pm    | 2am-4pm    | 2am-4pm    | 2am-4pm    | 2am-4pm    |
-| Mukuna   | 10am-9pm  | 10am-9pm  | 10am-11pm  | 10am-11pm  | 10am-11pm | 8am-5pm   |            |
+| Mukuna   | 10am-9pm   | 10am-9pm   | 10am-11pm  | 10am-11pm  | 10am-11pm  | 8am-5pm    |            |
 | M.Ziadah | 3pm-4pm,   | 3pm-4pm,   | 3pm-4pm,   | 3pm-4pm,   | 3pm-4pm,   | 3pm-4pm,   | 3pm-4pm,   |
 |          | 10-11am    | 10-11am    | 10-11am    | 10-11am    | 10-11am    | 10-11am    | 10-11am    |
 | Svitlana | 11am-8pm   | 11am-8pm   | 11am-8pm   | 11am-8pm   | 11am-8pm   | 11am-3pm   |            |
@@ -61,7 +61,7 @@ How often we will get in touch on each channel, and what we will discuss there:
 
 There's a fine line between confidently learning from your mistakes and stubbornly
 getting nowhere. Here is a general guide for when to ask for help based on how long
-you’ve been stuck on the same problem:
+you've been stuck on the same problem:
 
 1. _0 → 30 min_: Try on your own
 2. _30 → 60 min_: Ask your group for help
