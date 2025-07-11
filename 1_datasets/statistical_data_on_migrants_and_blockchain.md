@@ -30,15 +30,15 @@ evolving role of blockchain and remittance technologies.
 
 <!-- markdownlint-disable MD033 -->
 <div align="center">
-  <img src="https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/stats_articles/notes/notes/images/Picture1.jpg?raw=true" width="600" />
+  <img src="https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/notes/notes/images/Picture1.jpg?raw=true" width="600" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/stats_articles/notes/notes/images/Picture2.png?raw=true" width="600" />
+  <img src="https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/notes/notes/images/Picture2.png?raw=true" width="600" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/stats_articles/notes/notes/images/Picture3.png?raw=true" width="600" />
+  <img src="https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/notes/notes/images/Picture3.png?raw=true" width="600" />
 </div>
 <!-- markdownlint-enable MD033 -->
 
@@ -59,7 +59,7 @@ evolving role of blockchain and remittance technologies.
 
 <!-- markdownlint-disable MD033 -->
 <div align="center">
-  <img src="https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/stats_articles/notes/notes/images/Picture4.png?raw=true" width="600" />
+  <img src="https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/notes/notes/images/Picture4.png?raw=true" width="600" />
 </div>
 <!-- markdownlint-enable MD033 -->
 
