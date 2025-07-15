@@ -142,4 +142,33 @@ The folder `raw_datasets_files` contains the raw datasets used for our research 
     * `UNHCR Jordan_2024 Refugee FI FI BLS_Annexes 01.pdf`
     * `UNHCR Jordan_Refugee FI FH BLS Report_Final 01.pdf`
 
-**Data Access Note:** Microdata can be downloaded from [https://microdata.unhcr.org/index.php/catalog/1346/get-microdata](https://microdata.unhcr.org/index.php/catalog/1346/get-microdata) after providing necessary research information.
+**Data Access Note:** Microdata can be downloaded from [https://microdata.unhcr.org/index.php/catalog/1346/get-microdata](https://microdata.unhcr.org/index.php/catalog/1346/get-microdata) after providing necessary research information
+
+---
+
+## 5. Global Crypto Adoption Index Datasets (2022–2024)
+
+**Source:** Chainalysis – Global Crypto Adoption Index Reports (2022–2024).
+
+**Official Source Link:** [https://www.chainalysis.com/blog/2024-global-crypto-adoption-index](https://www.chainalysis.com/blog/2024-global-crypto-adoption-index)
+
+**Description:**  
+This dataset spans Chainalysis’s Global Crypto Adoption Index reports from 2022 to 2024, ranking countries by grassroots cryptocurrency adoption. The index is built using a combination of five sub-metrics that focus on individual (non-institutional) usage across centralized exchanges, DeFi, and P2P platforms. The 2024 report highlights the resurgence of crypto activity, especially in emerging markets like India, Nigeria, and the Philippines.
+
+**Relevance to Problem:**  
+These datasets provide valuable insights into the global landscape of cryptocurrency usage — especially relevant for unbanked or underbanked populations in developing countries. Comparing trends across 2022–2024 enables us to identify regions where crypto adoption is growing and explore its potential for enhancing financial inclusion for migrant and refugee communities.
+
+**Classification by Data Type:**
+
+* **Quantitative (Numerical) Data:** Ranks (ordinal), index scores (continuous).
+* **Time Series + Cross-Sectional Data:** Each year provides a snapshot of crypto adoption across countries, enabling comparison over time (2022, 2023, 2024).
+
+**Classification by Structure:**
+
+* **Structured Data:** Clean tabular formats (e.g., Excel) suitable for analysis.
+
+**Classification by Access Type:**
+
+* **Public Data (summarized):** Rankings and insights are publicly available on Chainalysis. Raw data is aggregated in our project for analysis.
+
+**Associated Files (Local raw copies located in `/1_datasets/raw_datasets_files/The_Global_crypto_Adoption_Index_2022_to_2024/`):**
