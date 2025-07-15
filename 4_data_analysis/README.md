@@ -3,9 +3,8 @@
 > **Conclusion:**  
 > Regions with larger migrant populations often show stronger
 cryptocurrency adoption activity — especially in top-ranked countries.
-However, the relationship weakens when including Central & Western Europe.
-
-> **Confidence Level:**  
+However, the relationship weakens when including Central & Western Europe.  
+>**Confidence Level:**
 > Moderate – supported by cleaned regional-level data and visual + statistical validation.
 
 ---
@@ -54,8 +53,7 @@ strength of the relationship using correlation analysis:
 
   > 📈 **Pearson correlation (all regions):** 0.136  
   > 📊 **p-value:** 0.748  
-  > 🔍 **Interpretation:** Weak or no correlation
-
+  > 🔍 **Interpretation:** Weak or no correlation  
   > 📈 **Pearson correlation (excluding Central & Western Europe):** 0.647  
   > 📊 **p-value:** 0.116  
   > 🔍 **Interpretation:** Moderate positive correlation
