@@ -1,6 +1,25 @@
 # 📊 Crypto Adoption & Migration Analysis
 
-This notebook explores the relationship between **cryptocurrency adoption trends** and **international migrant stock** across countries and regions. The goal is to investigate whether migration levels influence the uptake of decentralized financial technologies.
+> **Conclusion:**  
+> Regions with larger migrant populations often show stronger
+cryptocurrency adoption activity — especially in top-ranked countries.
+However, the relationship weakens when including Central & Western Europe.
+
+> **Confidence Level:**  
+> Moderate – supported by cleaned regional-level data and visual + statistical validation.
+
+---
+
+## 🧠 Summary of Analytical Approach
+
+This project analyzes the relationship between **cryptocurrency adoption**
+and **international migrant stock** by:
+
+- Cleaning and aligning data from **Chainalysis** and the **United Nations**
+- Creating a **normalized adoption score** from country rankings
+- Aggregating by **region** and filtering top-performing countries
+- Visualizing adoption vs. migration trends
+- Performing **correlation analysis**
 
 ---
 
@@ -9,40 +28,64 @@ This notebook explores the relationship between **cryptocurrency adoption trends
 ### 1. Global Crypto Adoption Index (2022–2024)
 
 - **Source**: Chainalysis
-- **Cleaned File**: `../1_datasets/cleaned/GCAI.xlsx`
-- **Description**: Ranks 150 countries each year based on crypto activity in centralized exchanges, DeFi platforms, and retail transactions.
+- **File**: `../1_datasets/cleaned/GCAI.xlsx`
+- **Description**: Ranks 150 countries annually based on crypto activity
+ in centralized exchanges, DeFi platforms, and retail usage.
 - **Columns Used**: `Rank`, `Country`, `Region`, `Year`
 
 ### 2. International Migrant Stock (2024)
 
-- **Source**: United Nations DESA, Population Division
-- **Cleaned File**: `../1_datasets/cleaned/Migrant_Stock.xlsx`
-- **Description**: Provides migrant population counts by region in 2024.
+- **Source**: UN DESA, Population Division
+- **File**: `../1_datasets/cleaned/Migrant_Stock.xlsx`
+- **Description**: Total number of migrants per region in 2024.
 - **Columns Used**: `Region`, `2024 Migrant Stock`
 
 ---
 
-## 🎯 Objectives
+## 🔎 Research Highlights
 
-- 🧼 Clean, merge, and align datasets based on region
-- 📈 Normalize adoption ranks into a score out of 1
-- 📊 Analyze and visualize regional patterns
-- 🔍 Explore the correlation between migrant stock and crypto adoption
+- **Crypto adoption** varies significantly by region, with strong
+performance in parts of **Sub-Saharan Africa**, **South and Southeast Asia**,
+and **Latin America**.
+- **Migrant stock** is highly concentrated in regions like **North America**
+and **Europe**.
+- After normalizing adoption scores and aggregating by region, we explored the
+strength of the relationship using correlation analysis:
+
+  > 📈 **Pearson correlation (all regions):** 0.136  
+  > 📊 **p-value:** 0.748  
+  > 🔍 **Interpretation:** Weak or no correlation
+
+  > 📈 **Pearson correlation (excluding Central & Western Europe):** 0.647  
+  > 📊 **p-value:** 0.116  
+  > 🔍 **Interpretation:** Moderate positive correlation
+
+These findings suggest that **Central & Western Europe may act as an outlier**,
+due to unique socio-economic or regulatory characteristics.
 
 ---
 
-## 🔎 Analysis Highlights
+## ⚠️ Limitations
 
-- Bar and line plots compare **regional adoption scores vs. migrant stock**
-- An exploded pie chart shows the **distribution of migrant stock**
-- Region-level scatter plots display **country-wise variation**
-- Pearson correlation analysis reveals the **relationship strength**
+- Manual standardization of region names may introduce mapping bias
+- Crypto adoption is rank-based, not volume-based
+- Migrant data is only for 2024, while adoption spans 3 years
+- Some regions (e.g., North America) include very few countries
+
+---
+
+## 💡 Future Research Ideas
+
+- Use raw on-chain volume instead of rank-based metrics
+- Include more detailed demographic info (e.g., income, gender)
+- Analyze crypto adoption by **remittance corridor**
+- Add **qualitative data** on crypto policy or accessibility
 
 ---
 
 ## 🧪 Dependencies
 
-The following Python libraries are used:
+This notebook uses the following Python libraries:
 
 ```bash
 pandas
