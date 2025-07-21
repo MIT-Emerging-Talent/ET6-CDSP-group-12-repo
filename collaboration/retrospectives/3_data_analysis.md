@@ -47,4 +47,4 @@ and a comparison between our planned strategy and actual execution.
   while others were less engaged or unclear on their roles
 * We lacked technical check-ins, which led to communication gaps and siloed progress
 
-This experience reinforced the importance of data hygiene and structure—even small formatting issues can significantly disrupt analysis. Going forward, I want to deepen my skills in data wrangling so I can contribute more directly during technical stages as well.
+This experience reinforced the importance of data hygiene and structure—even small formatting issues can significantly disrupt analysis. Going forward, We aim to deepen our skills in data wrangling so that we can evenly contribute directly during technical stages as well.
