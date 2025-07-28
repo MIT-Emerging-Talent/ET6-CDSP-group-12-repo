@@ -12,7 +12,7 @@ datasets across multiple years.
 ### 1. Global Crypto Adoption Index (2022–2024)
 
 - **Source:** [Chainalysis](https://www.chainalysis.com/blog/2024-global-crypto-adoption-index/)
-- **Raw Data:** [`The_Global_crypto_Adoption_Index_2022_to_2024.xlsx`](../raw_datasets_files/The_Global_crypto_Adoption_Index_2022_to_2024.xlsx)
+- **Raw Data:** [`The_Global_crypto_Adoption_Index_2022_to_2024.xlsx`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/1_datasets/raw_datasets_files/The_Global_crypto_Adoption_Index_2022_to_2024.xlsx)
 - **Processing Steps:**
   - Imported sheets for 2022, 2023, and 2024.
   - Selected relevant columns: `Rank`, `Country`, and `Region`.
@@ -22,7 +22,7 @@ datasets across multiple years.
 ### 2. International Migrant Stock by Destination and Origin (2024)
 
 - **Source:** [UN DESA Population Division](https://www.un.org/development/desa/pd/content/international-migrant-stock)
-- **Raw Data:** [`undesa_pd_2024_ims_stock_by_sex_destination_and_origin.raw.xlsx`](../raw_datasets_files/undesa_pd_2024_ims_stock_by_sex_destination_and_origin.raw.xlsx)
+- **Raw Data:** [`undesa_pd_2024_ims_stock_by_sex_destination_and_origin.raw.xlsx`](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/1_datasets/raw_datasets_files/undesa_pd_2024_ims_stock_by_sex_destination_and_origin.raw.xlsx)
 - **Processing Steps:**
   - Imported `Table 2` sheet from the Excel file.
   - Extracted specific rows of interest: 13, 38–40, 44, 45, 47, 50–54, 58, 59.

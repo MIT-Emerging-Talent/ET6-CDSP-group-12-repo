@@ -38,16 +38,14 @@ communities.
 
 ### 🧾 Research Papers & Case Studies
 
-- [Blockchain for Refugees – MIT Media Lab](https://www.media.mit.edu/projects/blockchain-for-refugees/overview/)
 - [WFP "Building Blocks" Pilot](https://innovation.wfp.org/project/building-blocks)
 - [UNCDF: Inclusive Digital Economies Report (2022)](https://migrantmoney.uncdf.org/resources/research/migrant-money-annual-report-2022/)
 - [Stanford: Mobile Data & Loan Prediction (2019)](https://arxiv.org/pdf/1712.05840)
-- [World Bank: Migration & Remittances Factbook (2020)](https://www.worldbank.org/en/publication/migrationandremittances)
 
 ### 🔗 Other Resources
 
-- [Challenges Refugees Face in the Financial System (Miro)](https://miro.com/app/board/uXjVIoLcDiE=/?moveToWidget=3458764631836837820&cot=14)
-- [Expanding Credit Access in Developing Countries (Miro)](https://miro.com/app/board/uXjVIoLcDiE=/?moveToWidget=3458764631836647636&cot=14)
+- [Challenges Refugees Face in the Financial System )](https://www.migrationpolicy.org/article/refugees-migrants-financial-inclusion)
+- [Expanding Credit Access in Developing Countries](https://migrantmoney.uncdf.org/resources/insights/expanding-access-to-credit-in-developing-countries-a-case-study-of-a-digital-migrant-backed-loan-by-symplifi/)
 - [Chicago Fed: Financial Access for Immigrants (PDF)](https://www.chicagofed.org/~/media/others/region/financial-access-for-immigrants/lessons-from-diverse-perspectives-pdf.pdf)
 - [Chainalysis – Blockchain Reports](https://www.chainalysis.com/reports/)
 
