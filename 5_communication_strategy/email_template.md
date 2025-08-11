@@ -1,9 +1,5 @@
 # Email Template
 
-**Subject:** Sharing Research Insights – Blockchain Solutions for Migrant Financial Inclusion
-
----
-
 Dear ____________,
 
 We are a part of the MIT Emerging Talent - Data Science Cohort 6, where our team **FinclisionChain** recently completed research on how blockchain-based financial tools could help migrants and refugees overcome barriers to accessing loans and credit.
