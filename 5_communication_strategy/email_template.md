@@ -18,4 +18,4 @@ Thank you for your time, and for the important work you do to support vulnerable
 
 Warm regards,  
 MIT Emerging Talent – Data Science Cohort 6  
-Team **FinclisionChain**
+Team FinclisionChain
