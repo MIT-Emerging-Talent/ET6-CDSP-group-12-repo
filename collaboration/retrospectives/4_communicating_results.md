@@ -7,9 +7,10 @@ It outlines what we should stop, continue, and start doing, lessons learned, and
 
 ## 🛑 Stop Doing
 
-* Relying on one or two people to finalize communication artifacts at the last minute.
-* Assuming that technical clarity automatically translates into audience understanding without active simplification.
-* Underestimating the time needed for creative design and format decisions.
+* Waiting until only a few days before submission to begin work on the milestone, which left little time for iteration.
+* Depending on one or two people to drive the creation and finalization of communication artifacts under time pressure.
+* Assuming that technical clarity automatically translates into audience understanding without deliberate simplification.
+* Underestimating the time needed for creative design and format decisions—especially when not everyone could join the planning meeting.
 
 ---
 
@@ -47,9 +48,11 @@ It outlines what we should stop, continue, and start doing, lessons learned, and
 * Initial delays in deciding the **medium** for communication compressed our design timeline.
 * Some members were less involved in early brainstorming, which limited idea diversity in the first drafts.
 * Translating statistical insights into actionable advice took longer than expected—requiring multiple revisions.
+* Not everyone could attend the key planning meeting, which limited early collaboration and alignment on the artifact’s direction.
 
 ---
 
 **Lessons learned:**
 This milestone emphasized that **effective science communication is as much about empathy and creativity as it is about accuracy**. Even when the data is correct, the message can fall flat if it’s not shaped for the audience’s understanding and constraints. Going forward, we aim to integrate audience-focused thinking earlier in the process and to prototype communication artifacts sooner to allow for feedback and iteration.
+
 
