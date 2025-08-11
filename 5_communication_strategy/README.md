@@ -12,10 +12,10 @@ scoring, and financial access.
 To achieve this, we have prepared:
 
 - A **research findings brief** summarizing our work, which will serve as an
-introduction to our project and highlight the insights we have gathered:  
-  📄 [Research Findings Brief]([[research_findings_brief.md](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/5_communication_strategy/email_template.md)](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/5_communication_strategy/research_findings_brief.md))
+  introduction to our project and highlight the insights we have gathered:  
+  📄 [Research Findings Brief](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/5_communication_strategy/research_findings_brief.md)
 - An **email template** to standardize our communication with organizations and ensure clarity and professionalism:  
-  📄 [Email Template]([email_template.md](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/5_communication_strategy/email_template.md))
+  📄 [Email Template](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/5_communication_strategy/email_template.md)
 
 ---
 
