@@ -12,7 +12,7 @@ Our study analyzed global cryptocurrency adoption trends alongside international
 
 We believe these insights could be useful to your work and to others in the humanitarian and financial inclusion space.
 
-Attached, you’ll find our **Research Findings Brief** — we welcome you to share it with relevant stakeholders, community leaders, and decision-makers who may benefit from this information.
+Attached, you’ll find our **Research Findings Brief** - we welcome you to share it with relevant stakeholders, community leaders, and decision-makers who may benefit from this information.
 
 Thank you for your time, and for the important work you do to support vulnerable communities worldwide.
 
