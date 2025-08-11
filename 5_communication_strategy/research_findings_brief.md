@@ -47,8 +47,6 @@ Using global cryptocurrency adoption rankings, top adoption countries in recent 
 - Countries with both strong crypto adoption and significant migrant presence could be ideal pilot locations for blockchain-based credit scoring.
 - Regions with high migration but lower adoption rates may require parallel efforts in digital literacy and infrastructure building.
 
----
-
 ### 🌎 By Regions
 
 International migration data shows high migrant populations in **Sub-Saharan Africa, Northern Africa, Eastern Europe, and Western Asia**.  
