@@ -121,9 +121,16 @@ decentralized, secure, and tamper-resistant capabilities—to provide **alternat
 
 ## 🔧 Collaboration Guidelines
 
-Our team follows agreed-upon norms and processes to ensure productive, respectful, and inclusive collaboration:
+Our team follows agreed-upon norms and processes to ensure productive,
+respectful, and inclusive collaboration. These include:
 
-- [**Group Norms**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/collaboration/group_norms.md)  
-- [**Communication Strategy**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/collaboration/communication_strategy.md)  
-- [**Project Constraints**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/collaboration/constraints.md)  
-- [**Individual Learning Goals**](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/collaboration/learning_goals.md)  
+- **🧭 [Group Norms][norms]**  
+- **💬 [Communication Strategy][communication]**  
+- **⛓ [Project Constraints][constraints]**  
+- **🎯 [Individual Learning Goals][goals]**
+
+<!-- Reference-style links -->
+[norms]: https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/collaboration/README.md
+[communication]: https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/collaboration/communication.md
+[constraints]: https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/collaboration/constraints.md
+[goals]: https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/collaboration/learning_goals.md
