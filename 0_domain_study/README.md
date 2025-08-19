@@ -2,9 +2,9 @@
 
 ## 🔍 Research Focus
 
-**Can blockchain-based identity and credit systems provide a viable solution to
-financial exclusion among migrants and refugees who lack access to traditional
-banking services?**
+**Can blockchain-based credit systems provide a viable solution
+to financial exclusion among migrants and refugees who lack
+access to traditional banking services?**
 
 This project explores how blockchain can be used to assess creditworthiness and
 unlock access to essential financial services for underserved migrant
