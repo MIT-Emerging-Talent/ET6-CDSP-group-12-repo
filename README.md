@@ -1,7 +1,7 @@
 # Blockchain for Financial Inclusion: Solutions for Migrant Credit Access
 
 <!-- markdownlint-disable -->
-<img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/refining/notes/notes/images/Finclusionchain.jpg" alt="Financial Inclusion Chain Diagram" width="800" height="250" />
+<img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/refining/notes/notes/images/Finclusionchain.jpg" alt="Financial Inclusion Chain Diagram" width="100%" height="250" />
 <!-- markdownlint-restore -->
 
 ## 🌍 Project Overview
