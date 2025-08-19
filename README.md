@@ -1,5 +1,9 @@
 # Blockchain for Financial Inclusion: Solutions for Migrant Credit Access
 
+<!-- markdownlint-disable -->
+<img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/refining/notes/notes/images/Finclusionchain.jpg" alt="Financial Inclusion Chain Diagram" width="800" height="250" />
+<!-- markdownlint-restore -->
+
 ## 🌍 Project Overview
 
 This collaborative research project explores whether **blockchain-based credit and financial solutions** can offer a **viable path to financial inclusion** for **migrants and refugees**, who are often shut out of traditional banking services due to the lack of formal documentation or credit histories.
