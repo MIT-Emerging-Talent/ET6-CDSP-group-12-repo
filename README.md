@@ -2,11 +2,7 @@
 
 ## 🌍 Project Overview
 
-This collaborative research project explores whether  
-**blockchain-based credit and financial solutions** can offer a  
-**viable path to financial inclusion** for  
-**migrants and refugees**, who are often shut out of traditional banking services  
-due to the lack of formal documentation or credit histories.
+This collaborative research project explores whether **blockchain-based credit and financial solutions** can offer a **viable path to financial inclusion** for **migrants and refugees**, who are often shut out of traditional banking services due to the lack of formal documentation or credit histories.
 
 ---
 
