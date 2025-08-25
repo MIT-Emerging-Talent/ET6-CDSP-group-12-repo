@@ -11,19 +11,34 @@ scoring, and financial access.
 
 To achieve this, we have prepared:
 
-- A **research findings brief** summarizing our work, which will serve as an
-  introduction to our project and highlight the insights we have gathered:  
-  📄 [Research Findings Brief](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/5_communication_strategy/research_findings_brief.md)
+- A **research findings brief** summarizing our work, which serves as an
+introduction to our project and highlights the insights we have gathered:  
+📄 [Research Findings Brief](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/5_communication_strategy/research_findings_brief.md)
+
 - An **email template** to standardize our communication with organizations and ensure clarity and professionalism:  
   📄 [Email Template](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/5_communication_strategy/email_template.md)
+
+- A **public-facing website** that showcases our research in a clear, accessible, and interactive way.  
+  🌍 [FinclusionChain Website](https://finclusion6.github.io/CDSP-WEBPAGE/)
+
+### Why the Website Matters
+
+The website is a crucial part of our communication strategy. While the research brief and email template are aimed at **professional stakeholders**, the website allows us to:
+
+- **Reach a broader audience**: NGOs, policymakers, journalists, students, and the general public can explore our findings without needing technical or academic expertise.  
+- **Visualize complex data**: Our interactive charts make it easy to understand the relationship between migration patterns and cryptocurrency adoption across regions.  
+- **Engage users interactively**: Visitors can explore country-level data, see adoption vs. migration correlations, and compare regional differences in financial access.  
+- **Enhance credibility and transparency**: Hosting the project on GitHub Pages ensures open access and demonstrates that our work is grounded in real data and analysis.  
+
+By combining research, storytelling, and visualization, the website helps us **bridge the gap between data and impact**—making our project more relatable and actionable for a global audience.
 
 ---
 
 ## Target Organizations
 
-We identified a set of organizations already engaged in projects that
-align with our work—ranging from blockchain-based payment pilots for
-refugees to global policy frameworks for financial inclusion. These
+We identified a set of organizations already engaged in projects that  
+align with our work—ranging from blockchain-based payment pilots for  
+refugees to global policy frameworks for financial inclusion. These  
 organizations can be contacted directly using the provided email template.
 
 | Organization | Description | Contact(s) |
@@ -52,4 +67,7 @@ We can connect with them through **LinkedIn** to initiate conversations, share o
 ## Summary
 
 By combining outreach to high-impact organizations with direct engagement of startup leaders, we aim to create a network that can collectively address migrant financial exclusion.  
-Our communication tools—the **research brief** and **email template**—ensure that our message is consistent, clear, and targeted for maximum impact.
+
+Our communication tools—the **research brief**, **email template**, and **public website**—ensure that our message is consistent, clear, and accessible to both professional stakeholders and the wider public.  
+
+The website in particular plays a central role in **sharing our research with the public**, allowing anyone to explore our findings through interactive data visualizations, making the case for blockchain-based credit solutions more tangible and engaging.

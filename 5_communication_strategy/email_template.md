@@ -2,7 +2,7 @@
 
 Dear ____________,
 
-We are a part of the MIT Emerging Talent - Data Science Cohort 6, where our team **FinclisionChain** recently completed research on how blockchain-based financial tools could help migrants and refugees overcome barriers to accessing loans and credit.
+We are a part of the MIT Emerging Talent - Data Science Cohort 6, where our team **FinclusionChain** recently completed research on how blockchain-based financial tools could help migrants and refugees overcome barriers to accessing loans and credit.
 
 Our study analyzed global cryptocurrency adoption trends alongside international migrant stock data to identify regions and countries where blockchain solutions could have the greatest impact. The findings highlight:
 
@@ -18,4 +18,4 @@ Thank you for your time, and for the important work you do to support vulnerable
 
 Warm regards,  
 MIT Emerging Talent – Data Science Cohort 6  
-Team FinclisionChain
+Team FinclusionChain

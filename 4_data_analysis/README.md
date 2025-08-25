@@ -1,4 +1,4 @@
-# 📊 Crypto Adoption & Migration Analysis
+# Crypto Adoption & Migration Analysis
 
 - **Conclusion:**  
 
@@ -24,7 +24,7 @@ and region definitions.
 
 ---
 
-## 🧠 Summary of Analytical Approach
+## Summary of Analytical Approach
 
 This analysis investigates whether **blockchain-based solutions** — reflected in global crypto adoption — can **financially include migrant populations** where traditional credit systems fall short.
 
@@ -39,7 +39,7 @@ Steps:
 
 ---
 
-## 📁 Datasets Used
+## Datasets Used
 
 ### 1. Global Crypto Adoption Index (2022–2024)
 
@@ -59,7 +59,7 @@ grouped by region.
 
 ---
 
-## 🔎 Research Highlights
+## Research Highlights
 
 - **Crypto adoption** is higher in regions with stronger grassroots digital
 finance, such as:
@@ -88,7 +88,7 @@ finance, such as:
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - **Region labels** were standardized manually and may introduce minor bias
 - **Crypto adoption rankings** are ordinal, not volume-based
@@ -97,7 +97,7 @@ finance, such as:
 
 ---
 
-## 💡 Future Research Ideas
+## Future Research Ideas
 
 - Replace rankings with **on-chain volume or wallet address count**
 - Investigate **remittance corridors** using transaction-level blockchain data
@@ -106,7 +106,7 @@ finance, such as:
 
 ---
 
-## 🧪 Dependencies
+## Dependencies
 
 The following Python libraries were used:
 
