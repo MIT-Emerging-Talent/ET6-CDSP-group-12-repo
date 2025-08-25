@@ -4,13 +4,13 @@
 <img src="https://raw.githubusercontent.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/main/notes/notes/images/Finclusionchain.jpg" alt="Financial Inclusion Chain Diagram" width="100%" height="250" />
 <!-- markdownlint-restore -->
 
-## 🌍 Project Overview
+## Project Overview
 
 This collaborative research project explores whether **blockchain-based credit and financial solutions** can offer a **viable path to financial inclusion** for **migrants and refugees**, who are often shut out of traditional banking services due to the lack of formal documentation or credit histories.
 
 ---
 
-## 🧩 Problem Statement
+## Problem Statement
 
 Migrants and refugees frequently face **systemic barriers to financial
 services**—from bank accounts and credit access to insurance—due to limited or
@@ -23,7 +23,7 @@ decentralized, secure, and tamper-resistant capabilities—to provide **alternat
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```plaintext
 /ET6-CDSP-GROUP-12-REPO
@@ -77,7 +77,7 @@ decentralized, secure, and tamper-resistant capabilities—to provide **alternat
     └── guide.md
 ```
 
-## 📂 Folder Descriptions
+## Folder Descriptions
 
 - [📁 0_domain_study](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/tree/main/0_domain_study)  
   Background research, case studies, and academic resources relevant to blockchain and migrant financial inclusion.
@@ -108,7 +108,22 @@ decentralized, secure, and tamper-resistant capabilities—to provide **alternat
 
 ---
 
-## 👥 Team Members
+## Explore Our Website
+
+To make our research accessible to a wider audience, we developed a **public-facing website** that presents our findings through interactive visualizations and clear explanations.  
+
+👉 Visit here: [FinclusionChain Website](https://finclusion6.github.io/CDSP-WEBPAGE/)  
+
+The website helps us:
+
+- **Reach the public** by simplifying complex data and insights.  
+- **Visualize trends** showing the relationship between migration patterns and crypto adoption.  
+- **Engage non-technical audiences** with interactive charts and region-level comparisons.  
+- **Share openly** via GitHub Pages, ensuring transparency and accessibility.  
+
+---
+
+## Team Members
 
 - [Mohammed Elfadil](https://github.com/Moealfadil)
 - [Özgür Özbek](https://github.com/ozgurozbekuk)
@@ -119,7 +134,7 @@ decentralized, secure, and tamper-resistant capabilities—to provide **alternat
 
 ---
 
-## 🔧 Collaboration Guidelines
+## Collaboration Guidelines
 
 Our team follows agreed-upon norms and processes to ensure productive,
 respectful, and inclusive collaboration. These include:

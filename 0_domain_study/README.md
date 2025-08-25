@@ -1,6 +1,6 @@
-# 📘 Research Project: Blockchain-Based Credit Systems for Migrant Financial Inclusion
+# Research Project: Blockchain-Based Credit Systems for Migrant Financial Inclusion
 
-## 🔍 Research Focus
+## Research Focus
 
 **Can blockchain-based credit systems provide a viable solution
 to financial exclusion among migrants and refugees who lack
@@ -12,7 +12,7 @@ communities.
 
 ---
 
-## 🧩 Key Concepts
+## Key Concepts
 
 - **Financial Exclusion**: Migrants and refugees often lack credit histories or
   documentation, limiting access to banking.
@@ -27,22 +27,22 @@ communities.
 
 ---
 
-## 📚 Background & Reference Materials
+## Background & Reference Materials
 
-### 🌐 Core Reports & Data Sources
+### Core Reports & Data Sources
 
 - [World Bank Global Findex (2021)](https://globalfindex.worldbank.org/)
 - [UNHCR Refugee Statistics](https://www.unhcr.org/refugee-statistics)
 - [IMF Financial Access Survey](https://data.imf.org/en/datasets/IMF.STA:FAS)
 - [OECD – International Migration Trends](https://www.oecd.org/en/topics/sub-issues/international-migration-trends.html)
 
-### 🧾 Research Papers & Case Studies
+### Research Papers & Case Studies
 
 - [WFP "Building Blocks" Pilot](https://innovation.wfp.org/project/building-blocks)
 - [UNCDF: Inclusive Digital Economies Report (2022)](https://migrantmoney.uncdf.org/resources/research/migrant-money-annual-report-2022/)
 - [Stanford: Mobile Data & Loan Prediction (2019)](https://arxiv.org/pdf/1712.05840)
 
-### 🔗 Other Resources
+### Other Resources
 
 - [Challenges Refugees Face in the Financial System )](https://www.migrationpolicy.org/article/refugees-migrants-financial-inclusion)
 - [Expanding Credit Access in Developing Countries](https://migrantmoney.uncdf.org/resources/insights/expanding-access-to-credit-in-developing-countries-a-case-study-of-a-digital-migrant-backed-loan-by-symplifi/)
@@ -51,7 +51,7 @@ communities.
 
 ---
 
-## ⚙️ Technical Approach
+## Technical Approach
 
 Our approach is focused on testing blockchain and AI models using available
 alternative datasets. We will:
@@ -64,7 +64,7 @@ alternative datasets. We will:
 
 ---
 
-## 🧭 FRESCO Evaluation
+## FRESCO Evaluation
 
 | FRESCO Criterion | Description |
 |------------------|-------------|
