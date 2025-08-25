@@ -6,7 +6,7 @@ the full slide deck via GitHub or Google Slides.
 
 ## View the Presentation Slides  
 
-- **GitHub-hosted PPTX**: [Download the presentation file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/final_presentation/6_final_presentation/Final%20Presentation_Group%2012.pptx)  
+- **GitHub-hosted PPTX**: [Download the presentation file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/6_final_presentation/Final%20Presentation_Group%2012.pptx)  
 - **Google Slides (interactive version)**: [Open presentation online](https://docs.google.com/presentation/d/1FtGY3HVQ2eSgakDryXmXQbmJMqu1-w9H/edit?slide=id.g3779a89e702_2_0#slide=id.g3779a89e702_2_0)
 
 ## Section Summaries
