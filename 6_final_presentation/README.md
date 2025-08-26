@@ -2,7 +2,7 @@
 
 This file outlines our **150-second (2.5-minute) final research presentation**, broken into five concise sections—each timed for clarity and pacing. You can view the full slide deck via GitHub or Google Slides.  
 
-### 🔗 View the Presentation Slides  
+## 🔗 View the Presentation Slides  
 
 - **GitHub-hosted PPTX**: [Download the presentation file](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-12-repo/blob/main/6_final_presentation/Final%20Presentation_Group%2012.pptx)  
 - **Google Slides (interactive version)**: [Open presentation online](https://docs.google.com/presentation/d/1FtGY3HVQ2eSgakDryXmXQbmJMqu1-w9H/edit?usp=sharing&ouid=103995366925866498618&rtpof=true&sd=true)  
